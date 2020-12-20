@@ -6,4 +6,4 @@ here is my [linkedin profile](https://www.linkedin.com/in/geethika-sureddy-0500a
 
 **feel the nature**
 ![my photo](nature.JPG).
-![my photo](BLOG.JPG)
+![my photo](BLOG.JPG).
