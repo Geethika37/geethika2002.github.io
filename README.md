@@ -4,6 +4,7 @@ welcome to my website
 
 here is my [linkedin profile](https://www.linkedin.com/in/geethika-sureddy-0500a8202/)
 
-**feel the nature**
+*feel the nature*
 ![my photo](nature.JPG).
-![my photo](BLOG.JPG)
+*should be greatful to nature*
+![my photo](trees.JPG)
